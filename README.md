@@ -8,3 +8,7 @@ The first and start。
 For the first time to use Github
 
 master conflict
+
+text for conflict
+
+text for conflict2
